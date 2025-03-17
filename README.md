@@ -1,6 +1,6 @@
 # Task Management and Tracking App
 
-Welcome to the **Task Management and Tracking App** repository! This app is being developed using Flutter during my co-op semester, with the goal of creating an intuitive and efficient tool for managing and tracking tasks.
+Welcome to the **Task.me** repository! This app is being developed using Flutter during my co-op semester, with the goal of creating an intuitive and efficient tool for managing and tracking tasks.
 
 ## Features (Planned)
 
