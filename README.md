@@ -1,16 +1,38 @@
-# taskme
+# Task Management and Tracking App
 
-A new Flutter project.
+Welcome to the **Task Management and Tracking App** repository! This app is being developed using Flutter during my co-op semester, with the goal of creating an intuitive and efficient tool for managing and tracking tasks.
 
-## Getting Started
+## Features (Planned)
 
-This project is a starting point for a Flutter application.
+- **Task Management**: Create, edit, and delete tasks.
+- **Task Prioritization**: Assign priority levels to tasks.
+- **Progress Tracking**: Track the status of tasks (e.g., To-Do, In Progress, Completed).
+- **Reminders**: Set deadlines and reminders for tasks.
+- **Time Efficiency Info**: Have a task timer to calculate you work efficiency.
+- **Categorization**: Organize tasks by categories or projects.
+- **Search and Filter**: Quickly find tasks using search and filter options.
+- **Cross-Platform Support**: Seamlessly works on Android, iOS, and web.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**: For cross-platform app development.
+- **Dart**: The programming language behind Flutter.
+- **State Management**: TBD (e.g., Provider, Riverpod, or Bloc).
+- **Database**: TBD (e.g., SQLite, Hive, or Firebase Firestore).
+- **Notifications**: TBD (e.g., Firebase Cloud Messaging, local notifications).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Goals
+
+1. Build a user-friendly interface for task creation and management.
+2. Ensure smooth performance and responsiveness across all platforms.
+3. Learn and apply best practices in Flutter app development.
+4. Implement features incrementally with regular testing and feedback.
+
+## Acknowledgments
+
+- Special thanks to the Flutter and Dart communities for their excellent documentation and resources.
+
+---
+
+Stay tuned for updates as the development progresses!
+
