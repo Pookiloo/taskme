@@ -31,7 +31,25 @@ Welcome to the **Task.me** repository! This app is being developed using Flutter
 ## Acknowledgments
 
 - Special thanks to the Flutter and Dart communities for their excellent documentation and resources.
-
+---
+## Tasks
+[x] Create App UI
+[] Make Simple Task Management
+  This will consist of Tasks list (create, delete, edit)
+[] Add Priority Levels 
+  Low, Medium, High
+[] Progress Tracking
+  Add sub-tasks within task to complete to reach goal. Create progress bar to display.
+[] Reminder
+  Set deadlines and notifications
+[] Time Efficiency Info
+  Create a timer to time yourself for each sub-task to be more aware of you time usage during task.
+[] Categorization
+  Organize tasks into folders/categories
+[] Search/Filter
+  Be able to search for a task or folder aswell as filter by priority and creation date.
+[] Cross-Platform
+  Make availabe on Web, Android, and IOS using google account to sync data
 ---
 
 Stay tuned for updates as the development progresses!
